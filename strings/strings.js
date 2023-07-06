@@ -56,8 +56,3 @@ word4=word4.split(" ").map(([firstChar,...rest])=>firstChar.toUpperCase()+rest.j
 console.log(word4);
 
 
-const noun="A wonderful world"
-var sentence= noun.split("");{
-    sentence[2].toUpperCase,sentence[12].toString
-}
-console.log(sentence)
